@@ -1,0 +1,18 @@
+body {
+  background: #de5f5f;
+  color: white;
+}
+
+.navbar-brand {
+  font-family: 'Arial', cursive;
+  font-size: 1.5rem;
+}
+
+.nav-link {
+  text-transform: uppercase;
+  font-family: 'Spicy Rice', cursive;
+}
+
+header img {
+  width: 60%;
+}
